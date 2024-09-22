@@ -1,16 +1,6 @@
 # 模板一
 xhofe/alist:latest
 
-# 模板二
---platform=linux/arm64 xiaoyaliu/alist
-
-# 模板三
-opengrok/docker
-
-nginx
-
-ros
-
 osrf/ros:melodic-desktop-full
 
-osrf/ros:foxy-desktop-full
+ryuichiueda/ubuntu22.04-ros2
