@@ -10,3 +10,5 @@ opengrok/docker
 nginx
 
 ros
+
+osrf/ros:melodic-desktop-full
