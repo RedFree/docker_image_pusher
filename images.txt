@@ -12,3 +12,5 @@ nginx
 ros
 
 osrf/ros:melodic-desktop-full
+
+osrf/ros:foxy-desktop-full
