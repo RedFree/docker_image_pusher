@@ -4,3 +4,5 @@ xhofe/alist:latest
 osrf/ros:melodic-desktop-full
 
 ryuichiueda/ubuntu22.04-ros2
+
+nvidia/cuda:11.6.2-cudnn8-devel-ubuntu20.04
