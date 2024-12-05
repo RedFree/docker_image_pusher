@@ -1,7 +1,7 @@
 # 模板一
 xhofe/alist:latest
 
-osrf/ros:melodic-desktop-full
+# osrf/ros:melodic-desktop-full
 
 ryuichiueda/ubuntu22.04-ros2
 
